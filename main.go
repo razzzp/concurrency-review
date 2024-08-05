@@ -1,9 +1,10 @@
 package main
 
-func release1() {
-
-}
-
 func main() {
-	release1()
+	// task1()
+	// task2()
+	// task3()
+	// task4()
+	// task5()
+	taskBonus()
 }
